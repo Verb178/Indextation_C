@@ -1,0 +1,16 @@
+C:\Users\3asba\source\repos\Indextation\Indextation\bin\Debug\netcoreapp3.1\Indextation.exe
+C:\Users\3asba\source\repos\Indextation\Indextation\bin\Debug\netcoreapp3.1\Indextation.deps.json
+C:\Users\3asba\source\repos\Indextation\Indextation\bin\Debug\netcoreapp3.1\Indextation.runtimeconfig.json
+C:\Users\3asba\source\repos\Indextation\Indextation\bin\Debug\netcoreapp3.1\Indextation.runtimeconfig.dev.json
+C:\Users\3asba\source\repos\Indextation\Indextation\bin\Debug\netcoreapp3.1\Indextation.dll
+C:\Users\3asba\source\repos\Indextation\Indextation\bin\Debug\netcoreapp3.1\Indextation.pdb
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.csproj.AssemblyReference.cache
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.Form1.resources
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.csproj.GenerateResource.cache
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.AssemblyInfoInputs.cache
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.AssemblyInfo.cs
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.csproj.CoreCompileInputs.cache
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.dll
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.pdb
+C:\Users\3asba\source\repos\Indextation\Indextation\obj\Debug\netcoreapp3.1\Indextation.genruntimeconfig.cache
